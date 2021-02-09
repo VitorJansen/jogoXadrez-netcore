@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
 
-namespace jogoXadrez_netcore.tabuleiro
+namespace tabuleiro
 {
     enum Cor
     {

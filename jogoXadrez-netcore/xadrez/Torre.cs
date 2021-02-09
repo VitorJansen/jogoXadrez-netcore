@@ -1,6 +1,6 @@
-﻿using jogoXadrez_netcore.tabuleiro;
+﻿using tabuleiro;
 
-namespace jogoXadrez_netcore.xadrez
+namespace xadrez
 {
     class Torre : Peca
     {

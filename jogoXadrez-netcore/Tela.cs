@@ -1,7 +1,5 @@
-﻿using jogoXadrez_netcore.tabuleiro;
+﻿using tabuleiro;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace jogoXadrez_netcore
 {

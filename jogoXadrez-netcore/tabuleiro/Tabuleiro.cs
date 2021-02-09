@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using tabuleiro;
-
-namespace jogoXadrez_netcore.tabuleiro
+﻿
+namespace tabuleiro
 {
     class Tabuleiro
     {

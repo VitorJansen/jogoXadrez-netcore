@@ -1,7 +1,6 @@
-﻿using jogoXadrez_netcore.tabuleiro;
-using jogoXadrez_netcore.xadrez;
-using System;
+﻿using System;
 using tabuleiro;
+using xadrez;
 
 namespace jogoXadrez_netcore
 {
@@ -9,6 +8,9 @@ namespace jogoXadrez_netcore
     {
         static void Main(string[] args)
         {
+            PosicaoXadrez pos = new PosicaoXadrez('a', 1);
+            Console.WriteLine(pos.toPosicao());
+            /*
             try
             {
                 Tabuleiro tab = new Tabuleiro(8, 8);
@@ -23,6 +25,7 @@ namespace jogoXadrez_netcore
             {
                 Console.WriteLine(e.Message);
             }
+            */
             
         }
     }
