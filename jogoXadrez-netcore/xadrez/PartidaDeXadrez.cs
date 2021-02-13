@@ -1,10 +1,5 @@
-﻿using System;
-using System.Security.Cryptography;
-using tabuleiro;
+﻿using tabuleiro;
 using System.Collections.Generic;
-using System.Threading;
-using System.Reflection.PortableExecutable;
-using System.Reflection.Metadata.Ecma335;
 
 namespace xadrez
 {
@@ -17,6 +12,7 @@ namespace xadrez
         private HashSet<Peca> pecas;
         private HashSet<Peca> capturadas;
         public bool xeque { get; set; }
+
 
         public PartidaDeXadrez()
         {

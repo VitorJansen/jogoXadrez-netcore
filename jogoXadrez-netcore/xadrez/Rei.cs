@@ -1,5 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-using tabuleiro;
+﻿using tabuleiro;
 
 namespace xadrez
 {

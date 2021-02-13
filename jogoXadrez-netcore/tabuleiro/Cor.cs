@@ -1,5 +1,4 @@
 ﻿
-
 namespace tabuleiro
 {
     enum Cor
